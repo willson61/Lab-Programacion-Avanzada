@@ -20,4 +20,18 @@ La diferencia es en la manera en la que cada una maneja sus datos, la lista es a
 Documentacion de Clases
 -----------------------
 -----------------------
-![alt text](Lab-Programacion-Avanzada/labprograavanzada/Screen No.1.png "Clase 1")
+Clase 1 - 4
+-----------
+![Clase 1 - 4](https://github.com/willson61/Lab-Programacion-Avanzada/blob/master/labprograavanzada/Screen%20No.1.png "Clase 1 - 4")
+
+Clase 2 - 4
+-----------
+![Clase 2 - 4](https://github.com/willson61/Lab-Programacion-Avanzada/blob/master/labprograavanzada/Screen%20No.%202.png "Clase 2 - 4")
+
+Clase 3 - 4
+-----------
+![Clase 3 - 4](https://github.com/willson61/Lab-Programacion-Avanzada/blob/master/labprograavanzada/Screen%20No.%203.png "Clase 3 - 4")
+
+Clase 4 - 4
+-----------
+![Clase 4 - 4](https://github.com/willson61/Lab-Programacion-Avanzada/blob/master/labprograavanzada/Screen%20No.%204.png "Clase 4 - 4")
