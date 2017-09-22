@@ -23,6 +23,6 @@ Operaciones aritmeticas por valor y por referencia.
 * Se crearon 4 metodos que trabajaban con paso por valor para las operaciones aritmeticas de suma, resta, division y multiplicacion.
 * Se crearon 4 metodos que trabajaban con paso por referencia para las operaciones aritmeticas de suma, resta, division y multiplicacion.
 * Se imprimieron las operaciones de los metodos por valor y los metodos por referencia.
-* Se comprendio de majero manera el manejo de valor por valor y por referencia.
-* Se aprendieron los conceptos y la forma de impresion y asignacion de valor en c++.
+* Se comprendio de mejor manera el manejo de datos por valor y por referencia.
+* Se aprendieron y mejoraron los conceptos de impresion y asignacion de valores en c++.
 
