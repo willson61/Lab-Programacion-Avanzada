@@ -1,4 +1,4 @@
-# console-cpp-simple
+# Practica de Laboratorio 4
 
 # Developer Workspace
 
@@ -17,4 +17,12 @@ FROM [codenvy/cpp_gcc](https://hub.docker.com/r/codenvy/cpp_gcc/)
 
 # Output
 
-The app will print Hello World to the console
+Operaciones aritmeticas por valor y por referencia.
+
+# Procesos y Aprendizajes
+* Se crearon 4 metodos que trabajaban con paso por valor para las operaciones aritmeticas de suma, resta, division y multiplicacion.
+* Se crearon 4 metodos que trabajaban con paso por referencia para las operaciones aritmeticas de suma, resta, division y multiplicacion.
+* Se imprimieron las operaciones de los metodos por valor y los metodos por referencia.
+* Se comprendio de majero manera el manejo de valor por valor y por referencia.
+* Se aprendieron los conceptos y la forma de impresion y asignacion de valor en c++.
+
